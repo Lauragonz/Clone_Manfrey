@@ -1,0 +1,17 @@
+.row{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.col-productos{
+    background-image:  url(../img/productos_975x734-fondo.jpg);
+    height: 80vh;
+}
+
+.col-novedades{
+    background-image:  url(../img/novedades_975x734-fondo-1.jpg);
+}
+
+.col-visita{
+    background-image:  url(../img/institucional-web-1024x428.jpg);
+}
