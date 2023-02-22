@@ -2,9 +2,10 @@
     margin: 0;
     position: relative;
     box-sizing: border-box;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,700,900');
 
 .section-recent-posts{
     padding: 50px 0;
@@ -34,3 +35,4 @@
 .card-text{
     color: #888888;
 }
+
