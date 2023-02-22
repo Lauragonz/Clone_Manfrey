@@ -1,0 +1,143 @@
+section, .row {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.col-productos {
+  background-image: url(../img/productos_975x734-fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+  object-fit: cover;
+}
+
+.col-novedades {
+    background-image: url(../img/novedades_975x734-fondo-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    object-fit: cover;
+  }
+  
+
+
+  .col-visita {
+    background-image: url(../img/institucional-web-1024x428.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    object-fit: cover;
+  }
+
+  
+.col-producto-texto {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.col-productos h2,
+.col-h1-enlace a {
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1em;
+  color: #ffe5b7;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+
+
+.col-novedades p {
+    font-size: 1rem;
+    color: #fff;
+    padding-top: 0.5rem;
+    margin-bottom: 1rem 0 1rem 2rem ;
+    text-align: start;
+  }
+
+
+.col-productos p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding-top: 0.5rem;
+  color: #ffa800;
+  margin-bottom: 1rem;
+  
+}
+
+
+.col-fotos img {
+  height: 100%;
+}
+
+.col-visita-planta {
+  width: 100%;
+  text-align: left;
+}
+
+.col-espacio {
+  height: 7rem;
+}
+.col-visita-planta h2 {
+  font-size: 6rem;
+  font-weight: 800;
+  line-height: 5rem;
+}
+
+.col-visita-planta p {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 2.5rem;
+}
+
+
+
+.col-espacio,
+.col-visita-planta,
+.col-btn {
+  width: auto;
+  text-decoration: none;
+  color: white;
+  text-align: left;
+}
+
+.col-btn a {
+  color: #fff;
+  font-size: 1.2rem;
+  border-radius: 2rem;
+  padding: 1.2rem;
+  border: 2px solid white;
+  text-decoration: none;
+}
+
+.col-btn a:hover {
+  background-color: white;
+  color: black;
+}
+.col-h1-enlace h2 {
+    text-align: left;
+}
+
+.col-contacto {
+    background-image: url(../img/contacto-web-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    object-fit: cover;
+  }
+
+ 
+  .col-contacto-texto h1 {
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1em;
+    color: #fff;
+    }
+
+.col-contacto p{
+  font-size: 1rem;
+  color: #fff;
+  margin-bottom: 1rem 0 1rem 2rem ;
+  text-align: start;
+}
+
+
+  
+
+  }
